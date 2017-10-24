@@ -9,7 +9,7 @@ name: 天真的以为
 description: 尝试一下个人blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/404.jpg
+avatar: /images/404.jpg
 
 #
 # Flags below are optional
