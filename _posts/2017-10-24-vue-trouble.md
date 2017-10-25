@@ -6,7 +6,7 @@ title: 谷歌翻译引发的vue错误
 
  　　使用vue中，在更改数组中的数据发现视图不能随着数据更改，代码如下:
 
-```html
+```javascript
 <template>
   <div id="home2">
 <button @click="change()">点我</button>
